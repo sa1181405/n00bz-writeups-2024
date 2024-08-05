@@ -1,6 +1,6 @@
 # Random
 Writeup author: **wjat**
-Point count: 4__
+Point count: 451
 
 Provided files: [server.cpp](https://static.n00bzunit3d.xyz/Crypto/Random/server.cpp)
 

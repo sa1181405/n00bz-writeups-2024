@@ -1,7 +1,7 @@
 # the_gang
 Writeup author: **lolmenow**
 
-Point count: 100pts
+Point count: 100
 
 Provided files: N/A
 

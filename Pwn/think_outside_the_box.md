@@ -1,6 +1,6 @@
 # Addition
 Writeup author: **wjat**
-Point count: 4__
+Point count: 464
 
 Provided files: [thinkoutsidethebox.zip](https://static.n00bzunit3d.xyz/Pwn/Think-outside-the-Box/thinkoutsidethebox.zip)
 

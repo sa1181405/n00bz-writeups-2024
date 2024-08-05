@@ -3,7 +3,7 @@
 
 **Original Solver:** lolmenow
 
-**Point Value:** 4__
+**Point Value:** 457
 
 **Provided Files:**
   - [disk.img.tar.gz](https://static.n00bzunit3d.xyz/Forensics/Disk-Golf/disk.img.tar.gz)

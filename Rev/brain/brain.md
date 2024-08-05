@@ -1,7 +1,7 @@
 # rev/brain
 **Writeup Author:** lolmenow
 **Original Solver:** lolmenow
-**Point Value:** 3__
+**Point Value:** 343
 
 **Provided Files:**
   - bf.txt

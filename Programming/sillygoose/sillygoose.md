@@ -1,6 +1,6 @@
 # Sillygoose
 Writeup author: **wjat**
-Point count: 2__
+Point count: 267
 
 Provided files: [sillygoose.py](https://static.n00bzunit3d.xyz/Programming/Sillygoose/sillygoose.py)
 

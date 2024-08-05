@@ -1,7 +1,7 @@
 # Misc/Agree
 **Writeup Author:** lolmenow
 **Original Solver:** lolmenow
-**Point Value:** 3__
+**Point Value:** 326
 
 **Provided Files:**
   - N/A

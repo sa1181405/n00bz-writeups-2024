@@ -1,7 +1,7 @@
 # PastebinX
 Writeup author: **lolmenow**
 
-Point count: 4__pts
+Point count: 428
 
 Provided files: N/A
 

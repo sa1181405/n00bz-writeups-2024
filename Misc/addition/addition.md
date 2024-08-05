@@ -1,6 +1,6 @@
 # Addition
 Writeup author: **wjat**
-Point count: 10_
+Point count: 100
 
 Provided files: [server.py](https://static.n00bzunit3d.xyz/Misc/Addition/server.py)
 

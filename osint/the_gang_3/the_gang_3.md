@@ -1,7 +1,7 @@
 # tail
 Writeup author: **lolmenow**
 
-Point count: 4__pts
+Point count: 486
 
 Provided files: tail.jpg
 
