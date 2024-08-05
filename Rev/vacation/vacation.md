@@ -1,4 +1,4 @@
-# Rev/vacation
+# 🩸 Rev/vacation
 **Writeup Author:** lolmenow
 **Original Solver:** lolmenow
 **Point Value:** 100
