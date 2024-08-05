@@ -1,4 +1,4 @@
-# Pastebin
+# 🩸 Pastebin
 Writeup author: **lolmenow**
 
 Point count: 1__pts
