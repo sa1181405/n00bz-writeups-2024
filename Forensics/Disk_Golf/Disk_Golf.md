@@ -1,4 +1,4 @@
-# Forensics/Disk Golf
+# 🩸Forensics/Disk Golf
 **Writeup Author:** lolmenow
 
 **Original Solver:** lolmenow
