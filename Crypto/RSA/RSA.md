@@ -1,4 +1,4 @@
-# RSA
+# 🩸RSA
 Writeup author: **lolmenow**
 
 Point count: 100pts
