@@ -1,4 +1,4 @@
-# tail
+# the_gang_3
 Writeup author: **lolmenow**
 
 Point count: 486
