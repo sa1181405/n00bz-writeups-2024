@@ -235,13 +235,13 @@ GPT made a convincing attack.sol (different than the one in current dir) and I w
 
 The problem is that the challenge author did not accept http requests from the rpc server through remix.
 
-![image](https://github.com/user-attachments/assets/938bbd56-bc9f-45d3-99ee-64824f419f59)
+![coollolmenowstory1.png](coollolmenowstory1.png)
 
 My thought went to begging to the admins to allow http requests!
 
 Lets say, it ended with this message:
 
-![image](https://github.com/user-attachments/assets/f0c42d12-4445-4b7c-b790-8b6957e124d8)
+![coollolmenowstory2.png](coollolmenowstory2.png)
 
 I did not know how to use web3 py and remix was my only solution at the time, so I just forfeited and went to bed :(
 
