@@ -237,6 +237,8 @@ The problem is that the challenge author did not accept http requests from the r
 
 ![coollolmenowstory1.png](coollolmenowstory1.png)
 
+**UPDATE 08/08/2024: Apparently it was NOT a server side issue, it is a client side issue. Due to CORS being enabled by default on all browsers, the RPC url won't connect on remix. All you have to do is disable CORS and it should connect remotely on remix.**
+
 My thought went to begging to the admins to allow http requests!
 
 Lets say, it ended with this message:
